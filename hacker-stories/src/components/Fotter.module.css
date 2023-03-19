@@ -1,0 +1,10 @@
+.con {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.bla{
+    margin-top: 1px;
+    display: flex;
+    gap: 10px;
+}
